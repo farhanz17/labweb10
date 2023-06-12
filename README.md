@@ -28,7 +28,8 @@ Pada **Codeigniter 4** fungsi pagination sudah tersedia pada library sehingga cu
 ## 1). MEMBUAT PAGINATION
 Untuk membuat pagination,buka Kembali **Controllers Artikel**, kemudian modifikasi kode pada method **admin_index** seperti berikut.
 
-![paginate](img/paginate.png)
+![image](https://github.com/farhanz17/labweb10/assets/92637117/0028ef4d-97c2-4134-91c4-85b3a579fcc5)
+
 
 **code paginate**
 ```php
